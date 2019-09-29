@@ -1,0 +1,72 @@
+	p {
+	color:gray;
+	font-size: 20px;
+	font-family:  'Oswald', sans-serif; 
+	}
+	h1{
+	font-family: 'Quicksand', sans-serif;
+	color:red;
+	font-size: 40px;
+	}
+	a {
+	color:blue;
+	font-family: 'Oswald', sans-serif;
+	text-decoration: none;
+	}
+	div{
+	width: 50%;
+	margin:auto;
+	padding: 50px;
+	background-color: #800000;
+	}
+	img{
+		max-width: 100%;
+		height: auto;
+		display:block;
+	}
+	#ANDREY{
+		padding: 50px;
+		background-color: #00A383;
+	}
+	#header {
+		position: relative;
+		background-color: mediumseagreen;
+		max-height:50px;
+		width:50%;
+
+	}
+	#left {
+		position: absolute;
+		left:10px;
+		top:10%;
+
+		}
+	#right {
+		position: absolute;
+		right:10px;
+		top:10%;
+	}
+	#namer{
+		position: absolute;
+		top:3px;
+		left:41%;
+		font-family: 'Oswald', sans-serif;
+	}
+	#test {
+		text-decoration: none; 
+		font-family: 'Oswald', sans-serif;
+		font-size: 20px;
+		transition: 0.2s ease-in;
+	}
+	#test:hover {
+		color: magenta;
+		border: 2px solid;
+	}
+
+		
+
+	/*colorshem.ru
+	colorhex.com
+	google fonts.com
+	htmlcolorcods.com*/		}
+	}
